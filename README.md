@@ -10,4 +10,7 @@ A neuron bot that tracks the soccer ball and detects it  and then adjusts its co
 ```ros2 run myPackage ball_tracker.py```
 
 * You can place any robot in any environment you like through adjusting the hsv values of the ball and the robot would move accordingly
+# Demo Video 
+https://drive.google.com/file/d/1Co1-9Xfb_8GVPKyDhR75WSczLNOG3kv7/view?usp=sharing
+
 
